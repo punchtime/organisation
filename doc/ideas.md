@@ -13,3 +13,4 @@ tinder for beer types | source @dervondenbergen | iets simplistisch
 berekenen hoe veel je mag drinken voor te rijden/dood | chat | niet zo veel uitdaging
 akkoorden voor muzieknummers herkennen | IRC | haalbaar?
 shuttle command | https://github.com/jwronline/shuttle-command | moeilijk logistiek
+grond-tekenmachine met krijt | http://hackaday.com/2015/12/11/beautiful-sidewalk-graffiti-machine/ | bestaat al, op zich niet veel onbestaande technologie
