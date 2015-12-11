@@ -14,3 +14,4 @@ berekenen hoe veel je mag drinken voor te rijden/dood | chat | niet zo veel uitd
 akkoorden voor muzieknummers herkennen | IRC | haalbaar?
 shuttle command | https://github.com/jwronline/shuttle-command | moeilijk logistiek
 grond-tekenmachine met krijt | http://hackaday.com/2015/12/11/beautiful-sidewalk-graffiti-machine/ | bestaat al, op zich niet veel onbestaande technologie
+app for crowdsourced hike and bike tours for your region, with the possibility to create a blog for each user about their bike/hike trips | @dervondenbergen |
