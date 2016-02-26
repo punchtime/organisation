@@ -17,4 +17,4 @@ By [Haroen Viaene](https://haroen.me), [Elias Meire](http://eliasmei.re) and [Ar
 
 ## License
 
-MIT
+Apache License 2.0
