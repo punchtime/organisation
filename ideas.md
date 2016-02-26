@@ -1,3 +1,7 @@
+This is a table of all the ideas that we explored before choosing our project.
+
+Reasons written in Dutch by Haroen
+
 idee|link|waarom slecht
 ---|---|---|
 drie-stukken-tekening | https://www.reddit.com/r/AppIdeas/comments/3p02nj/create_pictures_together_with_friendsstrangers/ | op zich niet veel reden, niet zo innovatief
