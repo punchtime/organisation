@@ -14,6 +14,7 @@ By [Haroen Viaene](https://haroen.me), [Elias Meire](http://eliasmei.re) and [Ar
 
 - [web client](https://github.com/punchtime/web)
 - [Android client](https://github.com/punchtime/android)
+- [working document](https://docs.google.com/document/d/1GoPG7M0NuxmKBnFluSobNzOe5IZe1-hLGRHtILv4VR4/edit?usp=sharing)
 
 ## License
 
