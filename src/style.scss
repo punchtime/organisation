@@ -1,0 +1,41 @@
+---
+---
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, Roboto, sans-serif;
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+blockquote {
+    background-color: #CCC;
+    border-left: 2px solid #333;
+    margin: 0;
+    padding: .2em 1em;
+}
+
+img {
+    max-width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+}
+table, tbody {
+  width: 100%;
+}
+tr {
+  border: 1px solid #ccc;
+  text-align: top;
+  overflow: auto;
+}
+th, td {
+  text-align: left;
+  padding: 4px;
+  word-break: break-word;
+}
