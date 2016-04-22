@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[back](..)
+
 # Icon
 
 The app icon

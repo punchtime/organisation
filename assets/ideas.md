@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<link rel="stylesheet" href="../src/style.css"/>
 
 [back](..)
 
