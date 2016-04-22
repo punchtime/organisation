@@ -19,6 +19,7 @@ The rest can be in Dutch.
 * [ideas](assets/ideas.html)
 * [sketches](sketches.html)
 * [database "layout"](database.html)
+* [icons](icons/)
 
 ## other
 
