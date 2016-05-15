@@ -1,6 +1,6 @@
 # Project 1
 
-[![Join the chat at https://gitter.im/punchtime/public](https://badges.gitter.im/punchtime/public.svg)]
+[![Join the chat at https://gitter.im/punchtime/public](https://badges.gitter.im/punchtime/public.svg)](https://gitter.im/punchtime/public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is the repository documenting the progress and result of projects 1 at Odisee UC, Ghent. Parts will be in Dutch.
 
