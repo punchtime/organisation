@@ -15,7 +15,7 @@ The rest can be in Dutch.
 
 ## links
 
-* [project document (.docx)](assets/mogelijke oplossingen_EOICT24.docx)
+* [project document (.docx)](assets/projecten1rapportEoICT24.docx)
 * [ideas](assets/ideas.html)
 * [sketches](sketches.html)
 * [database "layout"](database.html)
